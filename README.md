@@ -4,7 +4,7 @@ Fivem Minigame created by JustCodeIT inspired by newest NoPixel 4.0
 
 ## Preview
 
-![Preview]https://cdn.discordapp.com/attachments/985607890100437063/1202307788982976512/image.png?ex=65ccfb62&is=65ba8662&hm=cd684a578d6bb20f18116f32868819aba6c2e5500dc84f53d0b64b8038e3255a&)
+![Preview](https://cdn.discordapp.com/attachments/985607890100437063/1202307788982976512/image.png?ex=65ccfb62&is=65ba8662&hm=cd684a578d6bb20f18116f32868819aba6c2e5500dc84f53d0b64b8038e3255a&)
 
 
 ## FAQ
